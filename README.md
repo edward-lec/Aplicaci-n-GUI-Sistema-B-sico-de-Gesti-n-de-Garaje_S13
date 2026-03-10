@@ -94,43 +94,6 @@ Es el archivo principal que inicia la aplicación y ejecuta la interfaz gráfica
 
 ---
 
-## Tecnologías utilizadas
-
-* Python
-* Tkinter
-* Programación orientada a objetos
-
----
-
-## Cómo ejecutar el programa
-
-1. Clonar el repositorio:
-
-```
-git clone https://github.com/usuario/garaje_app.git
-```
-
-2. Entrar en la carpeta del proyecto:
-
-```
-cd garaje_app
-```
-
-3. Ejecutar el programa:
-
-```
-python main.py
-```
-
----
-
-## Requisitos
-
-* Python 3.x
-* Tkinter (incluido normalmente con Python)
-
----
-
 ## Autor
 
 Leiber Correa Bravo
